@@ -8,7 +8,7 @@ Description and Usage: Utilizing Bootstrap features (i.e grid layout, components
 
 Instructions: Resize screen for different viewing options.
 
-Mobile view ![screen clip](assets/img/mobile.png)
+Mobile view ![screen clip](assets/img/mobile2.png)
 
 Installation: No installation required.
 
