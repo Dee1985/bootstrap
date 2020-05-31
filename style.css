@@ -1,0 +1,32 @@
+* {
+  overflow: hidden;
+}
+h1 {
+  color: rgb(145, 200, 245);
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+  color: white;
+  font-family: "Monoton", cursive;
+}
+
+.lead {
+  font-family: "Lato", sans-serif;
+  color: rgb(179, 238, 18);
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.container {
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+}
